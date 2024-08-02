@@ -1,5 +1,7 @@
 # ArasInnovator_clone_itemtype
 
+## Aras Innovator Version 12.0 SP6
+
 ## Description
 This project demonstrates how an item can be cloned in the Aras Innovator PLM platform. A short JavaScript file in this project is connected to a form button, which, when clicked, calls a C# file to create a clone and automatically open the new item.
 
